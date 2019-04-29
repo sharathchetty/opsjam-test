@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="hotelsapi">
+    <Basepaths>/hotelsapi</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1556533611790</CreatedAt>
+    <CreatedBy>kashikenchanagundu@gmail.com</CreatedBy>
+    <Description>This is a sample Hotels Server.  You can find out more about OpenAPI spec at [http://swagger.io](http://swagger.io) or on [irc.freenode.net, #swagger](http://swagger.io/irc/).</Description>
+    <DisplayName>hotelsapi-2</DisplayName>
+    <LastModifiedAt>1556533739476</LastModifiedAt>
+    <LastModifiedBy>kashikenchanagundu@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:ffd978deb4b87917dbab1171fa15c18baadf8bf6c9ebf18a8d15424fccb5b0c1ee3107047c9419462dc9c8fdf60a0a20895f755e6779ebb060deba9d8309393c</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>openapi://association.json</Resource>
+    </Resources>
+    <Spec>http://playground.apistudio.io/9dd084db-7136-460e-8fe8-bde4ecafdc93/spec</Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
